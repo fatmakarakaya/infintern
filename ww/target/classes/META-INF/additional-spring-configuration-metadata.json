@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.datasource.DB_CLOSE_DELAY=-1",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.DB_CLOSE_DELAY=-1'"
+  },
+  {
+    "name": "jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1'"
+  },
+  {
+    "name": "hoaxify.upload-path",
+    "type": "java.lang.String",
+    "description": "A description for 'hoaxify.upload-path'"
+  },
+  {
+    "name": "jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1; DB_CLOSE_ON_EXIT=FALSE",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1; DB_CLOSE_ON_EXIT=FALSE'"
+  }
+]}
